@@ -1,6 +1,7 @@
 <h1 align='center'>BOT MANUAL ALARMES</h1>
 <p>Bot criado para pesquisa de informações sobre os alarmes 828D, 840Dsl e 840C.</p>
 <p><b>Plataforma:</b> <i>Telegram</i></p>
+<p>Bot para o manual 840C ainda não finalizado.</p>
 
 <hr>
 
